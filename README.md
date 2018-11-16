@@ -1,0 +1,2 @@
+# Assets
+The visual assets.
