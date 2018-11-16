@@ -1,0 +1,48 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+    <defs>
+        <style>.HiGold{fill:#000000;}</style>
+    </defs>
+    <title>HIGOLD</title>
+    <g id="HiGold" data-name="logo">
+
+        <circle cx="234" cy="234" r="85"/>
+        <circle cx="234" cy="512.5" r="85"/>
+        <circle cx="234" cy="790" r="85"/>
+        <circle cx="512.5" cy="234" r="85"/>
+        <circle cx="512.5" cy="512.5" r="85"/>
+        <circle cx="512.5" cy="790" r="85"/>
+        <circle cx="790" cy="234" r="85"/>
+        <circle cx="790" cy="512.5" r="85"/>
+        <circle cx="790" cy="790" r="85"/>
+
+        <path d="M174 294
+            A 256 160 0 0 1 174 452.5
+            L 294 452.5
+            A 256 160 0 0 1 294 294 Z" fill="black"/>
+
+        <path d="M174 572.5
+            A 256 160 0 0 1 174 731
+            L 294 731
+            A 256 160 0 0 1 294 572.5
+            Z" fill="black"/>
+
+        <path d="M452.5 572.5
+            A 256 160 0 0 1 452.5 731
+            L 572.5 731
+            A 256 160 0 0 1 572.5 572.5
+            Z" fill="black"/>
+
+        <path d="M731 572.5
+            A 256 160 0 0 1 731 731
+            L 851 731
+            A 256 160 0 0 1 851 572.5
+            Z" fill="black"/>
+
+        <path d="M294 452.5
+            A 160 256  0 0 0 452.5 452.5
+            L 452.5 572.5
+            A  160 256 0 0 0 294 572.5
+            Z" fill="black"/>
+    </g>
+</svg>
