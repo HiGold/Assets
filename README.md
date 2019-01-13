@@ -5,6 +5,6 @@
 | Project State | Preview |
 |----------------|:----:|
 | Drak Icon |<img src="./icon/icon-dark.png" width="100" align=center />|
-| Light Icon |<img src="./icon/icon-light.png" width="100" align=center style="background-color: gray;" />|
-| Drak Icon |<img src="./coin/coin.png" width="100" align=center />|
-| Drak Icon |<img src="./logo/logo.png" width="200" align=center />|
+| Light Icon |<img src="./icon/icon-light.png" width="100" align=center />|
+| Token Icon |<img src="./coin/coin.png" width="100" align=center />|
+| Brand Logo |<img src="./logo/logo.png" width="200" align=center />|
