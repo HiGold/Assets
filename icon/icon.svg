@@ -1,0 +1,52 @@
+<!--
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+-->
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 528 528" >
+    <defs>
+        <style>.HiGold{fill:#000000;}</style>
+    </defs>
+    <title>by HiGold Community</title>
+    <g id="HiGold" data-name="logo">
+
+    <circle cx="64.5" cy="64.5" r="64"/>
+    <circle cx="264.5" cy="64.5" r="64"/>
+    <circle cx="463.5" cy="64.5" r="64"/>
+
+    <circle cx="64.5" cy="264.5" r="64"/>
+    <circle cx="264.5" cy="264.5" r="64"/>
+    <circle cx="463.5" cy="264.5" r="64"/>
+
+
+    <circle cx="64.5" cy="463.5" r="64"/>
+    <circle cx="264.5" cy="463.5" r="64"/>
+    <circle cx="463.5" cy="463.5" r="64"/>
+
+
+    <path d="
+            M 109.5 109.5
+            A 79 79 0 0 0 109.5 219.5
+            A 79 79 0 0 0 219.5 219.5
+            L 309.5 309.5
+            A 79 79 0 0 0 309.5 418.5
+            L 219.5 418.5
+            A 79 79 0 0 0 219.5 309.5
+            A 79 79 0 0 0 109.5 309.5
+            A 79 79 0 0 0 109.5 418.5
+            L 19.5 418.5
+            A 79 79 0 0 0 19.5 309.5
+            L 19.5 219.5
+            A 79 79 0 0 0 19.5 109.5
+            Z
+        "/>
+
+    <path d="
+            M 418.5 418.5
+            A 79 79 0 0 0 418.5 309.5
+            L 508.5 309.5
+            A 79 79 0 0 0 508.5 418.5
+            Z
+        "/>
+
+    </g>
+</svg>

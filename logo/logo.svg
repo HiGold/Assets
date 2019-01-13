@@ -1,0 +1,57 @@
+<!--
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+-->
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2445 650">
+    <defs>
+        <style>.HiGold{
+            font-size: 666px;
+            font-family: Righteous;
+          }</style>
+    </defs>
+    <title>by HiGold Community</title>
+    <g id="icon" data-name="logo">
+
+        <circle fill="rgb(240, 185, 11)" cx="64.5" cy="64.5" r="64"/>
+        <circle fill="rgb(240, 185, 11)" cx="264.5" cy="64.5" r="64"/>
+        <circle fill="rgb(240, 185, 11)" cx="463.5" cy="64.5" r="64"/>
+
+        <circle fill="rgb(240, 185, 11)" cx="64.5" cy="264.5" r="64"/>
+        <circle fill="rgb(240, 185, 11)" cx="264.5" cy="264.5" r="64"/>
+        <circle fill="rgb(240, 185, 11)" cx="463.5" cy="264.5" r="64"/>
+
+
+        <circle fill="rgb(240, 185, 11)" cx="64.5" cy="463.5" r="64"/>
+        <circle fill="rgb(240, 185, 11)" cx="264.5" cy="463.5" r="64"/>
+        <circle fill="rgb(240, 185, 11)" cx="463.5" cy="463.5" r="64"/>
+
+
+        <path fill="rgb(240, 185, 11)" d="
+                M 109.5 109.5
+                A 79 79 0 0 0 109.5 219.5
+                A 79 79 0 0 0 219.5 219.5
+                L 309.5 309.5
+                A 79 79 0 0 0 309.5 418.5
+                L 219.5 418.5
+                A 79 79 0 0 0 219.5 309.5
+                A 79 79 0 0 0 109.5 309.5
+                A 79 79 0 0 0 109.5 418.5
+                L 19.5 418.5
+                A 79 79 0 0 0 19.5 309.5
+                L 19.5 219.5
+                A 79 79 0 0 0 19.5 109.5
+                Z
+            "/>
+
+        <path fill="rgb(240, 185, 11)" d="
+                M 418.5 418.5
+                A 79 79 0 0 0 418.5 309.5
+                L 508.5 309.5
+                A 79 79 0 0 0 508.5 418.5
+                Z
+            "/>
+
+    </g>
+
+    <text fill="rgb(240, 185, 11)" id="higold" class="HiGold" transform="translate(600 508.5) scale(1)">higold</text>
+</svg>
