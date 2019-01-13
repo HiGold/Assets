@@ -8,7 +8,7 @@
 | Light Icon |<img src="./icon/icon-light.png" width="100" align=center />| |
 | Token Icon |<img src="./coin/coin.png" width="100" align=center />| |
 | Brand Logo |<img src="./logo/logo.png" width="200" align=center />| |
-| <h2>HiGold Ninja Stickers</h2>| by 小地瓜 - 810215181@qq.com | |
+| HiGold Ninja Stickers | by 小地瓜 - 810215181@qq.com | |
 | <img src="./HiGold-Ninja/1.gif" width="60" align=center />| <img src="./HiGold-Ninja/2.gif" width="60" align=center />| <img src="./HiGold-Ninja/3.gif" width="60" align=center />|
 | <img src="./HiGold-Ninja/4.gif" width="60" align=center />| <img src="./HiGold-Ninja/5.gif" width="60" align=center />| <img src="./HiGold-Ninja/6.gif" width="60" align=center />|
 | <img src="./HiGold-Ninja/7.gif" width="60" align=center />| <img src="./HiGold-Ninja/8.gif" width="60" align=center />| <img src="./HiGold-Ninja/9.gif" width="60" align=center />|
