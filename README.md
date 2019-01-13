@@ -5,7 +5,7 @@
 | Project State | Preview | |
 |----------------|:----:| |
 | Drak Icon |<img src="./icon/icon-dark.png" width="100" align=center />| |
-| Light Icon |<img src="./icon/icon-light.png" width="100" align=center />|
+| Light Icon |<img src="./icon/icon-light.png" width="100" align=center />| |
 | Token Icon |<img src="./coin/coin.png" width="100" align=center />| |
 | Brand Logo |<img src="./logo/logo.png" width="200" align=center />| |
 | <h2>HiGold Ninja Stickers</h2>| by 小地瓜 - 810215181@qq.com | |
